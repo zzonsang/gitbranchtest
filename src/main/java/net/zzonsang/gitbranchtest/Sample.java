@@ -5,4 +5,6 @@ public class Sample {
 		System.out.println("New feature!!");
 		System.out.println("Add feature/myfeature");
 	}
+
+
 }
